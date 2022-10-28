@@ -1,0 +1,27 @@
+
+
+table {
+    width: 100%;
+    max-width: 500px;
+    margin: 16px auto;
+    border-spacing: 0 2px;
+    background: white;
+    padding: 0 3px;
+    border-radius: 3px;
+
+
+
+}
+
+table tr {
+    background-color: #dddd;
+    border-radius: 3px;
+    padding: 3px;
+    margin: 2px 0px 2px 0;
+    line-height: 2.2;
+
+    
+}
+table tr td {
+    padding-left: 12px;
+}
